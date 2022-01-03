@@ -2,7 +2,7 @@
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning Software engineer
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me -My E mail- samankumararajapaksha660@gmail.com
 
 <!---
 samankumaraya/samankumaraya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
