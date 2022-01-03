@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samankumaraya
 - 👀 I’m interested in Technology
-- 🌱 I’m currently learning Software engineer
+- 🌱 I’m currently learning Software engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -My E mail- samankumararajapaksha660@gmail.com
 
