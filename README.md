@@ -5,10 +5,6 @@
 
 - 🌱 I’m currently learning **React, Angular, Node Js**
 
-- 👯 I’m looking to collaborate on **Train booking application**
-
-- 🤝 I’m looking for help to **develop knowledge with your projects**
-
 - 📝 I regularly write articles on [https://medium.com/@samankumararajapaksha660](https://medium.com/@samankumararajapaksha660)
 
 - 💬 Ask me about **React, Spring boot , Angular, Node js...**
