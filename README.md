@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saman Kumara</h1>
 <h3 align="center">An undergraduate Software Engineering Student from Sri Lanka</h3>
 
-- 🔭 I’m currently working on **Employ Management System project**
+- 🔭 I’m currently working on **Parallax Technologies (Private) Limited.**
 
 - 🌱 I’m currently learning **React, Angular, Node Js**
 
